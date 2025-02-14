@@ -1,0 +1,21 @@
+C:\Users\KGA\Desktop\PJ1_LAST_START\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.exe.config
+C:\Users\KGA\Desktop\PJ1_LAST_START\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.exe
+C:\Users\KGA\Desktop\PJ1_LAST_START\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.pdb
+C:\Users\KGA\Desktop\PJ1_LAST_START\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\PJ1_LAST_START\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\PJ1_LAST_START\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.exe
+C:\Users\KGA\Desktop\PJ1_LAST_START\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.pdb
+C:\Users\KGA\Desktop\PJ1_LAST_START (2)\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.exe.config
+C:\Users\KGA\Desktop\PJ1_LAST_START (2)\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.exe
+C:\Users\KGA\Desktop\PJ1_LAST_START (2)\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.pdb
+C:\Users\KGA\Desktop\PJ1_LAST_START (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\PJ1_LAST_START (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\PJ1_LAST_START (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.exe
+C:\Users\KGA\Desktop\PJ1_LAST_START (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.pdb
+C:\Users\KGA\Desktop\PJ1_LAST_START (2) (2) (2)\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.exe.config
+C:\Users\KGA\Desktop\PJ1_LAST_START (2) (2) (2)\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.exe
+C:\Users\KGA\Desktop\PJ1_LAST_START (2) (2) (2)\PJ1_LAST_START\bin\Debug\PJ1_LAST_START.pdb
+C:\Users\KGA\Desktop\PJ1_LAST_START (2) (2) (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.csproj.AssemblyReference.cache
+C:\Users\KGA\Desktop\PJ1_LAST_START (2) (2) (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\PJ1_LAST_START (2) (2) (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.exe
+C:\Users\KGA\Desktop\PJ1_LAST_START (2) (2) (2)\PJ1_LAST_START\obj\Debug\PJ1_LAST_START.pdb
